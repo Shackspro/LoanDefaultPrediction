@@ -18,3 +18,10 @@ The project is organized as follows:
 CSV/: Contains the dataset files.
 Notebooks/: Jupyter notebooks for data exploration and model development.
 ipynb/: Python source code for data preprocessing, model training, and evaluation.
+## Team Loan Logic:
+Mayank gomase 23bai10477
+Anushka Dubey 23bce11492
+Shivam Patil 23bce10275
+Shubrat Parmar 23bce10288
+Siddhartha Jaiswal 23bai11343
+
